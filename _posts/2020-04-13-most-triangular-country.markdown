@@ -40,7 +40,7 @@ This definition of similarity has the following properties:
 
 * If $$A \cap B = 0$$, then $$\textrm{similarity} (A,B) = 0$$.
 
-(An alernative measure of similarity would be the [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index). My intuition is that it will produce similar results.)
+(An alternative measure of similarity would be the [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index). My intuition is that it will produce similar results.)
 
 Let the country $$C$$ be a set in the plane, $$ C \subset \mathbb{R}^{2} $$. Let $$ T(\textbf{x},\textbf{y}) $$ be a set in the plane, $$ T(\textbf{x},\textbf{y}) \subset \mathbb{R}^{2} $$, that is enclosed by the triangle with vertices: $$(x_{1},y_{1})$$, $$(x_{2},y_{2})$$, $$(x_{3},y_{3})$$. 
 
