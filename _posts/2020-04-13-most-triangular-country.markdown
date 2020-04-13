@@ -92,7 +92,7 @@ So these results would suggest that the most triangular country in the world is 
 
 I plotted the triangularity of each country by rank, labelling every 25th country. This shows that there is a quite gentle decrease in triangularity for the first 150 countries followed by a sharp drop off, seemingly due to countries that have multiple parts. The least triangular country is the Marshall Islands, hardly surprising considering the country is a collection of tiny islands spread over a large area of ocean. The least triangular country that isn't a group of islands is Vietnam. 
 
-<img src="/ta_blog/assets/img/triangularity_graph.png"/>
+<img src="{{site.baseurl}}/assets/img/triangularity_graph.png"/>
 
 Looking at pictures of the best triangles, it does seem like the optimisation has worked as intended, at least to the human eye. I think I would have picked similar triangles if I were doing the process manually.
 
@@ -100,202 +100,202 @@ Below is the final list of triangular countries. If you want to view the images 
 
 | Rank | Country | Triangularity | Image |
 |-------|-------|-------|-------|
-| 1 | Nicaragua | 0.918672 | <img src="/ta_blog/assets/img/Nicaragua.png" width="200"/> |
-| 2 | Bosnia and Herzegovina | 0.913202 | <img src="/ta_blog/assets/img/Bosnia and Herzegovina.png" width="200"/> |
-| 3 | Namibia | 0.907920 | <img src="/ta_blog/assets/img/Namibia.png" width="200"/> |
-| 4 | Mauritania | 0.899915 | <img src="/ta_blog/assets/img/Mauritania.png" width="200"/> |
-| 5 | Bolivia | 0.898253 | <img src="/ta_blog/assets/img/Bolivia.png" width="200"/> |
-| 6 | Bhutan | 0.897231 | <img src="/ta_blog/assets/img/Bhutan.png" width="200"/> |
-| 7 | Sri Lanka | 0.896619 | <img src="/ta_blog/assets/img/Sri Lanka.png" width="200"/> |
-| 8 | Barbados | 0.892064 | <img src="/ta_blog/assets/img/Barbados.png" width="200"/> |
-| 9 | Botswana | 0.889655 | <img src="/ta_blog/assets/img/Botswana.png" width="200"/> |
-| 10 | Dominican Republic | 0.889356 | <img src="/ta_blog/assets/img/Dominican Republic.png" width="200"/> |
-| 11 | Argentina | 0.888404 | <img src="/ta_blog/assets/img/Argentina.png" width="200"/> |
-| 12 | Algeria | 0.887851 | <img src="/ta_blog/assets/img/Algeria.png" width="200"/> |
-| 13 | Andorra | 0.887847 | <img src="/ta_blog/assets/img/Andorra.png" width="200"/> |
-| 14 | Belarus | 0.886588 | <img src="/ta_blog/assets/img/Belarus.png" width="200"/> |
-| 15 | Saint Lucia | 0.885393 | <img src="/ta_blog/assets/img/Saint Lucia.png" width="200"/> |
-| 16 | Mongolia | 0.883835 | <img src="/ta_blog/assets/img/Mongolia.png" width="200"/> |
-| 17 | Finland | 0.883464 | <img src="/ta_blog/assets/img/Finland.png" width="200"/> |
-| 18 | East Timor | 0.883226 | <img src="/ta_blog/assets/img/East Timor.png" width="200"/> |
-| 19 | Lithuania | 0.882420 | <img src="/ta_blog/assets/img/Lithuania.png" width="200"/> |
-| 20 | Spain | 0.880991 | <img src="/ta_blog/assets/img/Spain.png" width="200"/> |
-| 21 | Iraq | 0.880544 | <img src="/ta_blog/assets/img/Iraq.png" width="200"/> |
-| 22 | Nigeria | 0.879989 | <img src="/ta_blog/assets/img/Nigeria.png" width="200"/> |
-| 23 | Bahrain | 0.879084 | <img src="/ta_blog/assets/img/Bahrain.png" width="200"/> |
-| 24 | Central African Republic | 0.878863 | <img src="/ta_blog/assets/img/Central African Republic.png" width="200"/> |
-| 25 | Niger | 0.878834 | <img src="/ta_blog/assets/img/Niger.png" width="200"/> |
-| 26 | Cambodia | 0.878727 | <img src="/ta_blog/assets/img/Cambodia.png" width="200"/> |
-| 27 | Libya | 0.878326 | <img src="/ta_blog/assets/img/Libya.png" width="200"/> |
-| 28 | Lebanon | 0.877776 | <img src="/ta_blog/assets/img/Lebanon.png" width="200"/> |
-| 29 | Chad | 0.876590 | <img src="/ta_blog/assets/img/Chad.png" width="200"/> |
-| 30 | Dominica | 0.875869 | <img src="/ta_blog/assets/img/Dominica.png" width="200"/> |
-| 31 | Taiwan | 0.875187 | <img src="/ta_blog/assets/img/Taiwan.png" width="200"/> |
-| 32 | Brazil | 0.874508 | <img src="/ta_blog/assets/img/Brazil.png" width="200"/> |
-| 33 | Saudi Arabia | 0.874421 | <img src="/ta_blog/assets/img/Saudi Arabia.png" width="200"/> |
-| 34 | Zimbabwe | 0.874192 | <img src="/ta_blog/assets/img/Zimbabwe.png" width="200"/> |
-| 35 | Ecuador | 0.872448 | <img src="/ta_blog/assets/img/Ecuador.png" width="200"/> |
-| 36 | Venezuela | 0.871525 | <img src="/ta_blog/assets/img/Venezuela.png" width="200"/> |
-| 37 | Uruguay | 0.869709 | <img src="/ta_blog/assets/img/Uruguay.png" width="200"/> |
-| 38 | Benin | 0.868978 | <img src="/ta_blog/assets/img/Benin.png" width="200"/> |
-| 39 | Liberia | 0.868948 | <img src="/ta_blog/assets/img/Liberia.png" width="200"/> |
-| 40 | Madagascar | 0.867805 | <img src="/ta_blog/assets/img/Madagascar.png" width="200"/> |
-| 41 | Democratic Republic of the Congo | 0.866893 | <img src="/ta_blog/assets/img/Democratic Republic of the Congo.png" width="200"/> |
-| 42 | Ethiopia | 0.866403 | <img src="/ta_blog/assets/img/Ethiopia.png" width="200"/> |
-| 43 | Syria | 0.865422 | <img src="/ta_blog/assets/img/Syria.png" width="200"/> |
-| 44 | Slovenia | 0.864037 | <img src="/ta_blog/assets/img/Slovenia.png" width="200"/> |
-| 45 | Liechtenstein | 0.863911 | <img src="/ta_blog/assets/img/Liechtenstein.png" width="200"/> |
-| 46 | Afghanistan | 0.863858 | <img src="/ta_blog/assets/img/Afghanistan.png" width="200"/> |
-| 47 | Honduras | 0.863776 | <img src="/ta_blog/assets/img/Honduras.png" width="200"/> |
-| 48 | Burkina Faso | 0.863649 | <img src="/ta_blog/assets/img/Burkina Faso.png" width="200"/> |
-| 49 | San Marino | 0.863048 | <img src="/ta_blog/assets/img/San Marino.png" width="200"/> |
-| 50 | South Africa | 0.860611 | <img src="/ta_blog/assets/img/South Africa.png" width="200"/> |
-| 51 | Vatican | 0.860316 | <img src="/ta_blog/assets/img/Vatican.png" width="200"/> |
-| 52 | Belgium | 0.859731 | <img src="/ta_blog/assets/img/Belgium.png" width="200"/> |
-| 53 | Poland | 0.859164 | <img src="/ta_blog/assets/img/Poland.png" width="200"/> |
-| 54 | Georgia | 0.859137 | <img src="/ta_blog/assets/img/Georgia.png" width="200"/> |
-| 55 | Austria | 0.858090 | <img src="/ta_blog/assets/img/Austria.png" width="200"/> |
-| 56 | Hungary | 0.857817 | <img src="/ta_blog/assets/img/Hungary.png" width="200"/> |
-| 57 | Ghana | 0.857068 | <img src="/ta_blog/assets/img/Ghana.png" width="200"/> |
-| 58 | Nepal | 0.857044 | <img src="/ta_blog/assets/img/Nepal.png" width="200"/> |
-| 59 | Slovakia | 0.856166 | <img src="/ta_blog/assets/img/Slovakia.png" width="200"/> |
-| 60 | El Salvador | 0.856155 | <img src="/ta_blog/assets/img/El Salvador.png" width="200"/> |
-| 61 | Republic of Serbia | 0.856100 | <img src="/ta_blog/assets/img/Republic of Serbia.png" width="200"/> |
-| 62 | Armenia | 0.856031 | <img src="/ta_blog/assets/img/Armenia.png" width="200"/> |
-| 63 | Morocco | 0.855741 | <img src="/ta_blog/assets/img/Morocco.png" width="200"/> |
-| 64 | North Korea | 0.855623 | <img src="/ta_blog/assets/img/North Korea.png" width="200"/> |
-| 65 | South Sudan | 0.854143 | <img src="/ta_blog/assets/img/South Sudan.png" width="200"/> |
-| 66 | Estonia | 0.853185 | <img src="/ta_blog/assets/img/Estonia.png" width="200"/> |
-| 67 | Yemen | 0.852291 | <img src="/ta_blog/assets/img/Yemen.png" width="200"/> |
-| 68 | Mauritius | 0.852287 | <img src="/ta_blog/assets/img/Mauritius.png" width="200"/> |
-| 69 | Burundi | 0.852197 | <img src="/ta_blog/assets/img/Burundi.png" width="200"/> |
-| 70 | Cameroon | 0.852041 | <img src="/ta_blog/assets/img/Cameroon.png" width="200"/> |
-| 71 | Kuwait | 0.852006 | <img src="/ta_blog/assets/img/Kuwait.png" width="200"/> |
-| 72 | Luxembourg | 0.851825 | <img src="/ta_blog/assets/img/Luxembourg.png" width="200"/> |
-| 73 | United Republic of Tanzania | 0.850960 | <img src="/ta_blog/assets/img/United Republic of Tanzania.png" width="200"/> |
-| 74 | Monaco | 0.850811 | <img src="/ta_blog/assets/img/Monaco.png" width="200"/> |
-| 75 | Kyrgyzstan | 0.849767 | <img src="/ta_blog/assets/img/Kyrgyzstan.png" width="200"/> |
-| 76 | Ivory Coast | 0.849450 | <img src="/ta_blog/assets/img/Ivory Coast.png" width="200"/> |
-| 77 | Guinea | 0.849425 | <img src="/ta_blog/assets/img/Guinea.png" width="200"/> |
-| 78 | Romania | 0.849085 | <img src="/ta_blog/assets/img/Romania.png" width="200"/> |
-| 79 | South Korea | 0.847823 | <img src="/ta_blog/assets/img/South Korea.png" width="200"/> |
-| 80 | Uganda | 0.847599 | <img src="/ta_blog/assets/img/Uganda.png" width="200"/> |
-| 81 | Singapore | 0.847415 | <img src="/ta_blog/assets/img/Singapore.png" width="200"/> |
-| 82 | Kenya | 0.847016 | <img src="/ta_blog/assets/img/Kenya.png" width="200"/> |
-| 83 | Australia | 0.844598 | <img src="/ta_blog/assets/img/Australia.png" width="200"/> |
-| 84 | Cyprus | 0.844447 | <img src="/ta_blog/assets/img/Cyprus.png" width="200"/> |
-| 85 | United Arab Emirates | 0.844364 | <img src="/ta_blog/assets/img/United Arab Emirates.png" width="200"/> |
-| 86 | Montenegro | 0.842538 | <img src="/ta_blog/assets/img/Montenegro.png" width="200"/> |
-| 87 | Macedonia | 0.842095 | <img src="/ta_blog/assets/img/Macedonia.png" width="200"/> |
-| 88 | Ireland | 0.841491 | <img src="/ta_blog/assets/img/Ireland.png" width="200"/> |
-| 89 | Jamaica | 0.840451 | <img src="/ta_blog/assets/img/Jamaica.png" width="200"/> |
-| 90 | Senegal | 0.840054 | <img src="/ta_blog/assets/img/Senegal.png" width="200"/> |
-| 91 | Suriname | 0.839448 | <img src="/ta_blog/assets/img/Suriname.png" width="200"/> |
-| 92 | Turkey | 0.838539 | <img src="/ta_blog/assets/img/Turkey.png" width="200"/> |
-| 93 | Pakistan | 0.838210 | <img src="/ta_blog/assets/img/Pakistan.png" width="200"/> |
-| 94 | Nauru | 0.838165 | <img src="/ta_blog/assets/img/Nauru.png" width="200"/> |
-| 95 | Iceland | 0.837977 | <img src="/ta_blog/assets/img/Iceland.png" width="200"/> |
-| 96 | Qatar | 0.837840 | <img src="/ta_blog/assets/img/Qatar.png" width="200"/> |
-| 97 | Mali | 0.837820 | <img src="/ta_blog/assets/img/Mali.png" width="200"/> |
-| 98 | Sudan | 0.837108 | <img src="/ta_blog/assets/img/Sudan.png" width="200"/> |
-| 99 | Albania | 0.836750 | <img src="/ta_blog/assets/img/Albania.png" width="200"/> |
-| 100 | Czechia | 0.836644 | <img src="/ta_blog/assets/img/Czechia.png" width="200"/> |
-| 101 | Togo | 0.836207 | <img src="/ta_blog/assets/img/Togo.png" width="200"/> |
-| 102 | Iran | 0.835827 | <img src="/ta_blog/assets/img/Iran.png" width="200"/> |
-| 103 | Sierra Leone | 0.835686 | <img src="/ta_blog/assets/img/Sierra Leone.png" width="200"/> |
-| 104 | Kosovo | 0.834849 | <img src="/ta_blog/assets/img/Kosovo.png" width="200"/> |
-| 105 | eSwatini | 0.834460 | <img src="/ta_blog/assets/img/eSwatini.png" width="200"/> |
-| 106 | Gabon | 0.834010 | <img src="/ta_blog/assets/img/Gabon.png" width="200"/> |
-| 107 | Bulgaria | 0.833776 | <img src="/ta_blog/assets/img/Bulgaria.png" width="200"/> |
-| 108 | Angola | 0.832625 | <img src="/ta_blog/assets/img/Angola.png" width="200"/> |
-| 109 | Oman | 0.832474 | <img src="/ta_blog/assets/img/Oman.png" width="200"/> |
-| 110 | Lesotho | 0.832316 | <img src="/ta_blog/assets/img/Lesotho.png" width="200"/> |
-| 111 | Germany | 0.832018 | <img src="/ta_blog/assets/img/Germany.png" width="200"/> |
-| 112 | Rwanda | 0.831329 | <img src="/ta_blog/assets/img/Rwanda.png" width="200"/> |
-| 113 | Switzerland | 0.830879 | <img src="/ta_blog/assets/img/Switzerland.png" width="200"/> |
-| 114 | Belize | 0.830612 | <img src="/ta_blog/assets/img/Belize.png" width="200"/> |
-| 115 | Guatemala | 0.830442 | <img src="/ta_blog/assets/img/Guatemala.png" width="200"/> |
-| 116 | Turkmenistan | 0.830046 | <img src="/ta_blog/assets/img/Turkmenistan.png" width="200"/> |
-| 117 | Peru | 0.829379 | <img src="/ta_blog/assets/img/Peru.png" width="200"/> |
-| 118 | Moldova | 0.829254 | <img src="/ta_blog/assets/img/Moldova.png" width="200"/> |
-| 119 | Myanmar | 0.827051 | <img src="/ta_blog/assets/img/Myanmar.png" width="200"/> |
-| 120 | China | 0.825111 | <img src="/ta_blog/assets/img/China.png" width="200"/> |
-| 121 | Kazakhstan | 0.825079 | <img src="/ta_blog/assets/img/Kazakhstan.png" width="200"/> |
-| 122 | Saint Vincent and the Grenadines | 0.824970 | <img src="/ta_blog/assets/img/Saint Vincent and the Grenadines.png" width="200"/> |
-| 123 | Latvia | 0.824709 | <img src="/ta_blog/assets/img/Latvia.png" width="200"/> |
-| 124 | Djibouti | 0.824624 | <img src="/ta_blog/assets/img/Djibouti.png" width="200"/> |
-| 125 | Equatorial Guinea | 0.819325 | <img src="/ta_blog/assets/img/Equatorial Guinea.png" width="200"/> |
-| 126 | Jordan | 0.818978 | <img src="/ta_blog/assets/img/Jordan.png" width="200"/> |
-| 127 | Netherlands | 0.818781 | <img src="/ta_blog/assets/img/Netherlands.png" width="200"/> |
-| 128 | Paraguay | 0.816157 | <img src="/ta_blog/assets/img/Paraguay.png" width="200"/> |
-| 129 | Guinea-Bissau | 0.815927 | <img src="/ta_blog/assets/img/Guinea-Bissau.png" width="200"/> |
-| 130 | India | 0.814979 | <img src="/ta_blog/assets/img/India.png" width="200"/> |
-| 131 | Costa Rica | 0.814253 | <img src="/ta_blog/assets/img/Costa Rica.png" width="200"/> |
-| 132 | Ukraine | 0.813770 | <img src="/ta_blog/assets/img/Ukraine.png" width="200"/> |
-| 133 | Colombia | 0.813659 | <img src="/ta_blog/assets/img/Colombia.png" width="200"/> |
-| 134 | Grenada | 0.812532 | <img src="/ta_blog/assets/img/Grenada.png" width="200"/> |
-| 135 | Egypt | 0.812297 | <img src="/ta_blog/assets/img/Egypt.png" width="200"/> |
-| 136 | Portugal | 0.811106 | <img src="/ta_blog/assets/img/Portugal.png" width="200"/> |
-| 137 | Republic of the Congo | 0.811063 | <img src="/ta_blog/assets/img/Republic of the Congo.png" width="200"/> |
-| 138 | Tunisia | 0.807452 | <img src="/ta_blog/assets/img/Tunisia.png" width="200"/> |
-| 139 | Trinidad and Tobago | 0.804956 | <img src="/ta_blog/assets/img/Trinidad and Tobago.png" width="200"/> |
-| 140 | Sweden | 0.804381 | <img src="/ta_blog/assets/img/Sweden.png" width="200"/> |
-| 141 | Somalia | 0.802796 | <img src="/ta_blog/assets/img/Somalia.png" width="200"/> |
-| 142 | Malawi | 0.802539 | <img src="/ta_blog/assets/img/Malawi.png" width="200"/> |
-| 143 | Russia | 0.800247 | <img src="/ta_blog/assets/img/Russia.png" width="200"/> |
-| 144 | Zambia | 0.799161 | <img src="/ta_blog/assets/img/Zambia.png" width="200"/> |
-| 145 | Guyana | 0.798601 | <img src="/ta_blog/assets/img/Guyana.png" width="200"/> |
-| 146 | Azerbaijan | 0.796271 | <img src="/ta_blog/assets/img/Azerbaijan.png" width="200"/> |
-| 147 | Uzbekistan | 0.795089 | <img src="/ta_blog/assets/img/Uzbekistan.png" width="200"/> |
-| 148 | Thailand | 0.794683 | <img src="/ta_blog/assets/img/Thailand.png" width="200"/> |
-| 149 | São Tomé and Principe | 0.793244 | <img src="/ta_blog/assets/img/São Tomé and Principe.png" width="200"/> |
-| 150 | Bangladesh | 0.791780 | <img src="/ta_blog/assets/img/Bangladesh.png" width="200"/> |
-| 151 | United Kingdom | 0.791691 | <img src="/ta_blog/assets/img/United Kingdom.png" width="200"/> |
-| 152 | Eritrea | 0.789674 | <img src="/ta_blog/assets/img/Eritrea.png" width="200"/> |
-| 153 | Malta | 0.786289 | <img src="/ta_blog/assets/img/Malta.png" width="200"/> |
-| 154 | Mozambique | 0.786196 | <img src="/ta_blog/assets/img/Mozambique.png" width="200"/> |
-| 155 | Tajikistan | 0.785365 | <img src="/ta_blog/assets/img/Tajikistan.png" width="200"/> |
-| 156 | Laos | 0.781655 | <img src="/ta_blog/assets/img/Laos.png" width="200"/> |
-| 157 | United States of America | 0.771845 | <img src="/ta_blog/assets/img/United States of America.png" width="200"/> |
-| 158 | Mexico | 0.762001 | <img src="/ta_blog/assets/img/Mexico.png" width="200"/> |
-| 159 | Israel | 0.758537 | <img src="/ta_blog/assets/img/Israel.png" width="200"/> |
-| 160 | Brunei | 0.752157 | <img src="/ta_blog/assets/img/Brunei.png" width="200"/> |
-| 161 | Papua New Guinea | 0.748362 | <img src="/ta_blog/assets/img/Papua New Guinea.png" width="200"/> |
-| 162 | Canada | 0.747720 | <img src="/ta_blog/assets/img/Canada.png" width="200"/> |
-| 163 | Cuba | 0.735471 | <img src="/ta_blog/assets/img/Cuba.png" width="200"/> |
-| 164 | France | 0.734136 | <img src="/ta_blog/assets/img/France.png" width="200"/> |
-| 165 | Italy | 0.729978 | <img src="/ta_blog/assets/img/Italy.png" width="200"/> |
-| 166 | New Zealand | 0.723253 | <img src="/ta_blog/assets/img/New Zealand.png" width="200"/> |
-| 167 | Samoa | 0.719025 | <img src="/ta_blog/assets/img/Samoa.png" width="200"/> |
-| 168 | Greece | 0.710513 | <img src="/ta_blog/assets/img/Greece.png" width="200"/> |
-| 169 | Haiti | 0.709348 | <img src="/ta_blog/assets/img/Haiti.png" width="200"/> |
-| 170 | Gambia | 0.706181 | <img src="/ta_blog/assets/img/Gambia.png" width="200"/> |
-| 171 | Denmark | 0.702239 | <img src="/ta_blog/assets/img/Denmark.png" width="200"/> |
-| 172 | Chile | 0.694678 | <img src="/ta_blog/assets/img/Chile.png" width="200"/> |
-| 173 | Saint Kitts and Nevis | 0.694223 | <img src="/ta_blog/assets/img/Saint Kitts and Nevis.png" width="200"/> |
-| 174 | Palau | 0.685319 | <img src="/ta_blog/assets/img/Palau.png" width="200"/> |
-| 175 | Croatia | 0.667609 | <img src="/ta_blog/assets/img/Croatia.png" width="200"/> |
-| 176 | Panama | 0.650465 | <img src="/ta_blog/assets/img/Panama.png" width="200"/> |
-| 177 | Japan | 0.649205 | <img src="/ta_blog/assets/img/Japan.png" width="200"/> |
-| 178 | Fiji | 0.645017 | <img src="/ta_blog/assets/img/Fiji.png" width="200"/> |
-| 179 | Norway | 0.635156 | <img src="/ta_blog/assets/img/Norway.png" width="200"/> |
-| 180 | Vietnam | 0.629038 | <img src="/ta_blog/assets/img/Vietnam.png" width="200"/> |
-| 181 | Antigua and Barbuda | 0.614450 | <img src="/ta_blog/assets/img/Antigua and Barbuda.png" width="200"/> |
-| 182 | Comoros | 0.612388 | <img src="/ta_blog/assets/img/Comoros.png" width="200"/> |
-| 183 | Malaysia | 0.561826 | <img src="/ta_blog/assets/img/Malaysia.png" width="200"/> |
-| 184 | Federated States of Micronesia | 0.536417 | <img src="/ta_blog/assets/img/Federated States of Micronesia.png" width="200"/> |
-| 185 | Philippines | 0.536229 | <img src="/ta_blog/assets/img/Philippines.png" width="200"/> |
-| 186 | Indonesia | 0.493143 | <img src="/ta_blog/assets/img/Indonesia.png" width="200"/> |
-| 187 | Vanuatu | 0.473048 | <img src="/ta_blog/assets/img/Vanuatu.png" width="200"/> |
-| 188 | Tonga | 0.429500 | <img src="/ta_blog/assets/img/Tonga.png" width="200"/> |
-| 189 | The Bahamas | 0.405978 | <img src="/ta_blog/assets/img/The Bahamas.png" width="200"/> |
-| 190 | Seychelles | 0.388652 | <img src="/ta_blog/assets/img/Seychelles.png" width="200"/> |
-| 191 | Solomon Islands | 0.368949 | <img src="/ta_blog/assets/img/Solomon Islands.png" width="200"/> |
-| 192 | Cabo Verde | 0.309594 | <img src="/ta_blog/assets/img/Cabo Verde.png" width="200"/> |
-| 193 | Maldives | 0.203665 | <img src="/ta_blog/assets/img/Maldives.png" width="200"/> |
-| 194 | Tuvalu | 0.144069 | <img src="/ta_blog/assets/img/Tuvalu.png" width="200"/> |
-| 195 | Kiribati | 0.138684 | <img src="/ta_blog/assets/img/Kiribati.png" width="200"/> |
-| 196 | Marshall Islands | 0.084072 | <img src="/ta_blog/assets/img/Marshall Islands.png" width="200"/> |
+| 1 | Nicaragua | 0.918672 | <img src="{{site.baseurl}}/assets/img/Nicaragua.png" width="200"/> |
+| 2 | Bosnia and Herzegovina | 0.913202 | <img src="{{site.baseurl}}/assets/img/Bosnia and Herzegovina.png" width="200"/> |
+| 3 | Namibia | 0.907920 | <img src="{{site.baseurl}}/assets/img/Namibia.png" width="200"/> |
+| 4 | Mauritania | 0.899915 | <img src="{{site.baseurl}}/assets/img/Mauritania.png" width="200"/> |
+| 5 | Bolivia | 0.898253 | <img src="{{site.baseurl}}/assets/img/Bolivia.png" width="200"/> |
+| 6 | Bhutan | 0.897231 | <img src="{{site.baseurl}}/assets/img/Bhutan.png" width="200"/> |
+| 7 | Sri Lanka | 0.896619 | <img src="{{site.baseurl}}/assets/img/Sri Lanka.png" width="200"/> |
+| 8 | Barbados | 0.892064 | <img src="{{site.baseurl}}/assets/img/Barbados.png" width="200"/> |
+| 9 | Botswana | 0.889655 | <img src="{{site.baseurl}}/assets/img/Botswana.png" width="200"/> |
+| 10 | Dominican Republic | 0.889356 | <img src="{{site.baseurl}}/assets/img/Dominican Republic.png" width="200"/> |
+| 11 | Argentina | 0.888404 | <img src="{{site.baseurl}}/assets/img/Argentina.png" width="200"/> |
+| 12 | Algeria | 0.887851 | <img src="{{site.baseurl}}/assets/img/Algeria.png" width="200"/> |
+| 13 | Andorra | 0.887847 | <img src="{{site.baseurl}}/assets/img/Andorra.png" width="200"/> |
+| 14 | Belarus | 0.886588 | <img src="{{site.baseurl}}/assets/img/Belarus.png" width="200"/> |
+| 15 | Saint Lucia | 0.885393 | <img src="{{site.baseurl}}/assets/img/Saint Lucia.png" width="200"/> |
+| 16 | Mongolia | 0.883835 | <img src="{{site.baseurl}}/assets/img/Mongolia.png" width="200"/> |
+| 17 | Finland | 0.883464 | <img src="{{site.baseurl}}/assets/img/Finland.png" width="200"/> |
+| 18 | East Timor | 0.883226 | <img src="{{site.baseurl}}/assets/img/East Timor.png" width="200"/> |
+| 19 | Lithuania | 0.882420 | <img src="{{site.baseurl}}/assets/img/Lithuania.png" width="200"/> |
+| 20 | Spain | 0.880991 | <img src="{{site.baseurl}}/assets/img/Spain.png" width="200"/> |
+| 21 | Iraq | 0.880544 | <img src="{{site.baseurl}}/assets/img/Iraq.png" width="200"/> |
+| 22 | Nigeria | 0.879989 | <img src="{{site.baseurl}}/assets/img/Nigeria.png" width="200"/> |
+| 23 | Bahrain | 0.879084 | <img src="{{site.baseurl}}/assets/img/Bahrain.png" width="200"/> |
+| 24 | Central African Republic | 0.878863 | <img src="{{site.baseurl}}/assets/img/Central African Republic.png" width="200"/> |
+| 25 | Niger | 0.878834 | <img src="{{site.baseurl}}/assets/img/Niger.png" width="200"/> |
+| 26 | Cambodia | 0.878727 | <img src="{{site.baseurl}}/assets/img/Cambodia.png" width="200"/> |
+| 27 | Libya | 0.878326 | <img src="{{site.baseurl}}/assets/img/Libya.png" width="200"/> |
+| 28 | Lebanon | 0.877776 | <img src="{{site.baseurl}}/assets/img/Lebanon.png" width="200"/> |
+| 29 | Chad | 0.876590 | <img src="{{site.baseurl}}/assets/img/Chad.png" width="200"/> |
+| 30 | Dominica | 0.875869 | <img src="{{site.baseurl}}/assets/img/Dominica.png" width="200"/> |
+| 31 | Taiwan | 0.875187 | <img src="{{site.baseurl}}/assets/img/Taiwan.png" width="200"/> |
+| 32 | Brazil | 0.874508 | <img src="{{site.baseurl}}/assets/img/Brazil.png" width="200"/> |
+| 33 | Saudi Arabia | 0.874421 | <img src="{{site.baseurl}}/assets/img/Saudi Arabia.png" width="200"/> |
+| 34 | Zimbabwe | 0.874192 | <img src="{{site.baseurl}}/assets/img/Zimbabwe.png" width="200"/> |
+| 35 | Ecuador | 0.872448 | <img src="{{site.baseurl}}/assets/img/Ecuador.png" width="200"/> |
+| 36 | Venezuela | 0.871525 | <img src="{{site.baseurl}}/assets/img/Venezuela.png" width="200"/> |
+| 37 | Uruguay | 0.869709 | <img src="{{site.baseurl}}/assets/img/Uruguay.png" width="200"/> |
+| 38 | Benin | 0.868978 | <img src="{{site.baseurl}}/assets/img/Benin.png" width="200"/> |
+| 39 | Liberia | 0.868948 | <img src="{{site.baseurl}}/assets/img/Liberia.png" width="200"/> |
+| 40 | Madagascar | 0.867805 | <img src="{{site.baseurl}}/assets/img/Madagascar.png" width="200"/> |
+| 41 | Democratic Republic of the Congo | 0.866893 | <img src="{{site.baseurl}}/assets/img/Democratic Republic of the Congo.png" width="200"/> |
+| 42 | Ethiopia | 0.866403 | <img src="{{site.baseurl}}/assets/img/Ethiopia.png" width="200"/> |
+| 43 | Syria | 0.865422 | <img src="{{site.baseurl}}/assets/img/Syria.png" width="200"/> |
+| 44 | Slovenia | 0.864037 | <img src="{{site.baseurl}}/assets/img/Slovenia.png" width="200"/> |
+| 45 | Liechtenstein | 0.863911 | <img src="{{site.baseurl}}/assets/img/Liechtenstein.png" width="200"/> |
+| 46 | Afghanistan | 0.863858 | <img src="{{site.baseurl}}/assets/img/Afghanistan.png" width="200"/> |
+| 47 | Honduras | 0.863776 | <img src="{{site.baseurl}}/assets/img/Honduras.png" width="200"/> |
+| 48 | Burkina Faso | 0.863649 | <img src="{{site.baseurl}}/assets/img/Burkina Faso.png" width="200"/> |
+| 49 | San Marino | 0.863048 | <img src="{{site.baseurl}}/assets/img/San Marino.png" width="200"/> |
+| 50 | South Africa | 0.860611 | <img src="{{site.baseurl}}/assets/img/South Africa.png" width="200"/> |
+| 51 | Vatican | 0.860316 | <img src="{{site.baseurl}}/assets/img/Vatican.png" width="200"/> |
+| 52 | Belgium | 0.859731 | <img src="{{site.baseurl}}/assets/img/Belgium.png" width="200"/> |
+| 53 | Poland | 0.859164 | <img src="{{site.baseurl}}/assets/img/Poland.png" width="200"/> |
+| 54 | Georgia | 0.859137 | <img src="{{site.baseurl}}/assets/img/Georgia.png" width="200"/> |
+| 55 | Austria | 0.858090 | <img src="{{site.baseurl}}/assets/img/Austria.png" width="200"/> |
+| 56 | Hungary | 0.857817 | <img src="{{site.baseurl}}/assets/img/Hungary.png" width="200"/> |
+| 57 | Ghana | 0.857068 | <img src="{{site.baseurl}}/assets/img/Ghana.png" width="200"/> |
+| 58 | Nepal | 0.857044 | <img src="{{site.baseurl}}/assets/img/Nepal.png" width="200"/> |
+| 59 | Slovakia | 0.856166 | <img src="{{site.baseurl}}/assets/img/Slovakia.png" width="200"/> |
+| 60 | El Salvador | 0.856155 | <img src="{{site.baseurl}}/assets/img/El Salvador.png" width="200"/> |
+| 61 | Republic of Serbia | 0.856100 | <img src="{{site.baseurl}}/assets/img/Republic of Serbia.png" width="200"/> |
+| 62 | Armenia | 0.856031 | <img src="{{site.baseurl}}/assets/img/Armenia.png" width="200"/> |
+| 63 | Morocco | 0.855741 | <img src="{{site.baseurl}}/assets/img/Morocco.png" width="200"/> |
+| 64 | North Korea | 0.855623 | <img src="{{site.baseurl}}/assets/img/North Korea.png" width="200"/> |
+| 65 | South Sudan | 0.854143 | <img src="{{site.baseurl}}/assets/img/South Sudan.png" width="200"/> |
+| 66 | Estonia | 0.853185 | <img src="{{site.baseurl}}/assets/img/Estonia.png" width="200"/> |
+| 67 | Yemen | 0.852291 | <img src="{{site.baseurl}}/assets/img/Yemen.png" width="200"/> |
+| 68 | Mauritius | 0.852287 | <img src="{{site.baseurl}}/assets/img/Mauritius.png" width="200"/> |
+| 69 | Burundi | 0.852197 | <img src="{{site.baseurl}}/assets/img/Burundi.png" width="200"/> |
+| 70 | Cameroon | 0.852041 | <img src="{{site.baseurl}}/assets/img/Cameroon.png" width="200"/> |
+| 71 | Kuwait | 0.852006 | <img src="{{site.baseurl}}/assets/img/Kuwait.png" width="200"/> |
+| 72 | Luxembourg | 0.851825 | <img src="{{site.baseurl}}/assets/img/Luxembourg.png" width="200"/> |
+| 73 | United Republic of Tanzania | 0.850960 | <img src="{{site.baseurl}}/assets/img/United Republic of Tanzania.png" width="200"/> |
+| 74 | Monaco | 0.850811 | <img src="{{site.baseurl}}/assets/img/Monaco.png" width="200"/> |
+| 75 | Kyrgyzstan | 0.849767 | <img src="{{site.baseurl}}/assets/img/Kyrgyzstan.png" width="200"/> |
+| 76 | Ivory Coast | 0.849450 | <img src="{{site.baseurl}}/assets/img/Ivory Coast.png" width="200"/> |
+| 77 | Guinea | 0.849425 | <img src="{{site.baseurl}}/assets/img/Guinea.png" width="200"/> |
+| 78 | Romania | 0.849085 | <img src="{{site.baseurl}}/assets/img/Romania.png" width="200"/> |
+| 79 | South Korea | 0.847823 | <img src="{{site.baseurl}}/assets/img/South Korea.png" width="200"/> |
+| 80 | Uganda | 0.847599 | <img src="{{site.baseurl}}/assets/img/Uganda.png" width="200"/> |
+| 81 | Singapore | 0.847415 | <img src="{{site.baseurl}}/assets/img/Singapore.png" width="200"/> |
+| 82 | Kenya | 0.847016 | <img src="{{site.baseurl}}/assets/img/Kenya.png" width="200"/> |
+| 83 | Australia | 0.844598 | <img src="{{site.baseurl}}/assets/img/Australia.png" width="200"/> |
+| 84 | Cyprus | 0.844447 | <img src="{{site.baseurl}}/assets/img/Cyprus.png" width="200"/> |
+| 85 | United Arab Emirates | 0.844364 | <img src="{{site.baseurl}}/assets/img/United Arab Emirates.png" width="200"/> |
+| 86 | Montenegro | 0.842538 | <img src="{{site.baseurl}}/assets/img/Montenegro.png" width="200"/> |
+| 87 | Macedonia | 0.842095 | <img src="{{site.baseurl}}/assets/img/Macedonia.png" width="200"/> |
+| 88 | Ireland | 0.841491 | <img src="{{site.baseurl}}/assets/img/Ireland.png" width="200"/> |
+| 89 | Jamaica | 0.840451 | <img src="{{site.baseurl}}/assets/img/Jamaica.png" width="200"/> |
+| 90 | Senegal | 0.840054 | <img src="{{site.baseurl}}/assets/img/Senegal.png" width="200"/> |
+| 91 | Suriname | 0.839448 | <img src="{{site.baseurl}}/assets/img/Suriname.png" width="200"/> |
+| 92 | Turkey | 0.838539 | <img src="{{site.baseurl}}/assets/img/Turkey.png" width="200"/> |
+| 93 | Pakistan | 0.838210 | <img src="{{site.baseurl}}/assets/img/Pakistan.png" width="200"/> |
+| 94 | Nauru | 0.838165 | <img src="{{site.baseurl}}/assets/img/Nauru.png" width="200"/> |
+| 95 | Iceland | 0.837977 | <img src="{{site.baseurl}}/assets/img/Iceland.png" width="200"/> |
+| 96 | Qatar | 0.837840 | <img src="{{site.baseurl}}/assets/img/Qatar.png" width="200"/> |
+| 97 | Mali | 0.837820 | <img src="{{site.baseurl}}/assets/img/Mali.png" width="200"/> |
+| 98 | Sudan | 0.837108 | <img src="{{site.baseurl}}/assets/img/Sudan.png" width="200"/> |
+| 99 | Albania | 0.836750 | <img src="{{site.baseurl}}/assets/img/Albania.png" width="200"/> |
+| 100 | Czechia | 0.836644 | <img src="{{site.baseurl}}/assets/img/Czechia.png" width="200"/> |
+| 101 | Togo | 0.836207 | <img src="{{site.baseurl}}/assets/img/Togo.png" width="200"/> |
+| 102 | Iran | 0.835827 | <img src="{{site.baseurl}}/assets/img/Iran.png" width="200"/> |
+| 103 | Sierra Leone | 0.835686 | <img src="{{site.baseurl}}/assets/img/Sierra Leone.png" width="200"/> |
+| 104 | Kosovo | 0.834849 | <img src="{{site.baseurl}}/assets/img/Kosovo.png" width="200"/> |
+| 105 | eSwatini | 0.834460 | <img src="{{site.baseurl}}/assets/img/eSwatini.png" width="200"/> |
+| 106 | Gabon | 0.834010 | <img src="{{site.baseurl}}/assets/img/Gabon.png" width="200"/> |
+| 107 | Bulgaria | 0.833776 | <img src="{{site.baseurl}}/assets/img/Bulgaria.png" width="200"/> |
+| 108 | Angola | 0.832625 | <img src="{{site.baseurl}}/assets/img/Angola.png" width="200"/> |
+| 109 | Oman | 0.832474 | <img src="{{site.baseurl}}/assets/img/Oman.png" width="200"/> |
+| 110 | Lesotho | 0.832316 | <img src="{{site.baseurl}}/assets/img/Lesotho.png" width="200"/> |
+| 111 | Germany | 0.832018 | <img src="{{site.baseurl}}/assets/img/Germany.png" width="200"/> |
+| 112 | Rwanda | 0.831329 | <img src="{{site.baseurl}}/assets/img/Rwanda.png" width="200"/> |
+| 113 | Switzerland | 0.830879 | <img src="{{site.baseurl}}/assets/img/Switzerland.png" width="200"/> |
+| 114 | Belize | 0.830612 | <img src="{{site.baseurl}}/assets/img/Belize.png" width="200"/> |
+| 115 | Guatemala | 0.830442 | <img src="{{site.baseurl}}/assets/img/Guatemala.png" width="200"/> |
+| 116 | Turkmenistan | 0.830046 | <img src="{{site.baseurl}}/assets/img/Turkmenistan.png" width="200"/> |
+| 117 | Peru | 0.829379 | <img src="{{site.baseurl}}/assets/img/Peru.png" width="200"/> |
+| 118 | Moldova | 0.829254 | <img src="{{site.baseurl}}/assets/img/Moldova.png" width="200"/> |
+| 119 | Myanmar | 0.827051 | <img src="{{site.baseurl}}/assets/img/Myanmar.png" width="200"/> |
+| 120 | China | 0.825111 | <img src="{{site.baseurl}}/assets/img/China.png" width="200"/> |
+| 121 | Kazakhstan | 0.825079 | <img src="{{site.baseurl}}/assets/img/Kazakhstan.png" width="200"/> |
+| 122 | Saint Vincent and the Grenadines | 0.824970 | <img src="{{site.baseurl}}/assets/img/Saint Vincent and the Grenadines.png" width="200"/> |
+| 123 | Latvia | 0.824709 | <img src="{{site.baseurl}}/assets/img/Latvia.png" width="200"/> |
+| 124 | Djibouti | 0.824624 | <img src="{{site.baseurl}}/assets/img/Djibouti.png" width="200"/> |
+| 125 | Equatorial Guinea | 0.819325 | <img src="{{site.baseurl}}/assets/img/Equatorial Guinea.png" width="200"/> |
+| 126 | Jordan | 0.818978 | <img src="{{site.baseurl}}/assets/img/Jordan.png" width="200"/> |
+| 127 | Netherlands | 0.818781 | <img src="{{site.baseurl}}/assets/img/Netherlands.png" width="200"/> |
+| 128 | Paraguay | 0.816157 | <img src="{{site.baseurl}}/assets/img/Paraguay.png" width="200"/> |
+| 129 | Guinea-Bissau | 0.815927 | <img src="{{site.baseurl}}/assets/img/Guinea-Bissau.png" width="200"/> |
+| 130 | India | 0.814979 | <img src="{{site.baseurl}}/assets/img/India.png" width="200"/> |
+| 131 | Costa Rica | 0.814253 | <img src="{{site.baseurl}}/assets/img/Costa Rica.png" width="200"/> |
+| 132 | Ukraine | 0.813770 | <img src="{{site.baseurl}}/assets/img/Ukraine.png" width="200"/> |
+| 133 | Colombia | 0.813659 | <img src="{{site.baseurl}}/assets/img/Colombia.png" width="200"/> |
+| 134 | Grenada | 0.812532 | <img src="{{site.baseurl}}/assets/img/Grenada.png" width="200"/> |
+| 135 | Egypt | 0.812297 | <img src="{{site.baseurl}}/assets/img/Egypt.png" width="200"/> |
+| 136 | Portugal | 0.811106 | <img src="{{site.baseurl}}/assets/img/Portugal.png" width="200"/> |
+| 137 | Republic of the Congo | 0.811063 | <img src="{{site.baseurl}}/assets/img/Republic of the Congo.png" width="200"/> |
+| 138 | Tunisia | 0.807452 | <img src="{{site.baseurl}}/assets/img/Tunisia.png" width="200"/> |
+| 139 | Trinidad and Tobago | 0.804956 | <img src="{{site.baseurl}}/assets/img/Trinidad and Tobago.png" width="200"/> |
+| 140 | Sweden | 0.804381 | <img src="{{site.baseurl}}/assets/img/Sweden.png" width="200"/> |
+| 141 | Somalia | 0.802796 | <img src="{{site.baseurl}}/assets/img/Somalia.png" width="200"/> |
+| 142 | Malawi | 0.802539 | <img src="{{site.baseurl}}/assets/img/Malawi.png" width="200"/> |
+| 143 | Russia | 0.800247 | <img src="{{site.baseurl}}/assets/img/Russia.png" width="200"/> |
+| 144 | Zambia | 0.799161 | <img src="{{site.baseurl}}/assets/img/Zambia.png" width="200"/> |
+| 145 | Guyana | 0.798601 | <img src="{{site.baseurl}}/assets/img/Guyana.png" width="200"/> |
+| 146 | Azerbaijan | 0.796271 | <img src="{{site.baseurl}}/assets/img/Azerbaijan.png" width="200"/> |
+| 147 | Uzbekistan | 0.795089 | <img src="{{site.baseurl}}/assets/img/Uzbekistan.png" width="200"/> |
+| 148 | Thailand | 0.794683 | <img src="{{site.baseurl}}/assets/img/Thailand.png" width="200"/> |
+| 149 | São Tomé and Principe | 0.793244 | <img src="{{site.baseurl}}/assets/img/São Tomé and Principe.png" width="200"/> |
+| 150 | Bangladesh | 0.791780 | <img src="{{site.baseurl}}/assets/img/Bangladesh.png" width="200"/> |
+| 151 | United Kingdom | 0.791691 | <img src="{{site.baseurl}}/assets/img/United Kingdom.png" width="200"/> |
+| 152 | Eritrea | 0.789674 | <img src="{{site.baseurl}}/assets/img/Eritrea.png" width="200"/> |
+| 153 | Malta | 0.786289 | <img src="{{site.baseurl}}/assets/img/Malta.png" width="200"/> |
+| 154 | Mozambique | 0.786196 | <img src="{{site.baseurl}}/assets/img/Mozambique.png" width="200"/> |
+| 155 | Tajikistan | 0.785365 | <img src="{{site.baseurl}}/assets/img/Tajikistan.png" width="200"/> |
+| 156 | Laos | 0.781655 | <img src="{{site.baseurl}}/assets/img/Laos.png" width="200"/> |
+| 157 | United States of America | 0.771845 | <img src="{{site.baseurl}}/assets/img/United States of America.png" width="200"/> |
+| 158 | Mexico | 0.762001 | <img src="{{site.baseurl}}/assets/img/Mexico.png" width="200"/> |
+| 159 | Israel | 0.758537 | <img src="{{site.baseurl}}/assets/img/Israel.png" width="200"/> |
+| 160 | Brunei | 0.752157 | <img src="{{site.baseurl}}/assets/img/Brunei.png" width="200"/> |
+| 161 | Papua New Guinea | 0.748362 | <img src="{{site.baseurl}}/assets/img/Papua New Guinea.png" width="200"/> |
+| 162 | Canada | 0.747720 | <img src="{{site.baseurl}}/assets/img/Canada.png" width="200"/> |
+| 163 | Cuba | 0.735471 | <img src="{{site.baseurl}}/assets/img/Cuba.png" width="200"/> |
+| 164 | France | 0.734136 | <img src="{{site.baseurl}}/assets/img/France.png" width="200"/> |
+| 165 | Italy | 0.729978 | <img src="{{site.baseurl}}/assets/img/Italy.png" width="200"/> |
+| 166 | New Zealand | 0.723253 | <img src="{{site.baseurl}}/assets/img/New Zealand.png" width="200"/> |
+| 167 | Samoa | 0.719025 | <img src="{{site.baseurl}}/assets/img/Samoa.png" width="200"/> |
+| 168 | Greece | 0.710513 | <img src="{{site.baseurl}}/assets/img/Greece.png" width="200"/> |
+| 169 | Haiti | 0.709348 | <img src="{{site.baseurl}}/assets/img/Haiti.png" width="200"/> |
+| 170 | Gambia | 0.706181 | <img src="{{site.baseurl}}/assets/img/Gambia.png" width="200"/> |
+| 171 | Denmark | 0.702239 | <img src="{{site.baseurl}}/assets/img/Denmark.png" width="200"/> |
+| 172 | Chile | 0.694678 | <img src="{{site.baseurl}}/assets/img/Chile.png" width="200"/> |
+| 173 | Saint Kitts and Nevis | 0.694223 | <img src="{{site.baseurl}}/assets/img/Saint Kitts and Nevis.png" width="200"/> |
+| 174 | Palau | 0.685319 | <img src="{{site.baseurl}}/assets/img/Palau.png" width="200"/> |
+| 175 | Croatia | 0.667609 | <img src="{{site.baseurl}}/assets/img/Croatia.png" width="200"/> |
+| 176 | Panama | 0.650465 | <img src="{{site.baseurl}}/assets/img/Panama.png" width="200"/> |
+| 177 | Japan | 0.649205 | <img src="{{site.baseurl}}/assets/img/Japan.png" width="200"/> |
+| 178 | Fiji | 0.645017 | <img src="{{site.baseurl}}/assets/img/Fiji.png" width="200"/> |
+| 179 | Norway | 0.635156 | <img src="{{site.baseurl}}/assets/img/Norway.png" width="200"/> |
+| 180 | Vietnam | 0.629038 | <img src="{{site.baseurl}}/assets/img/Vietnam.png" width="200"/> |
+| 181 | Antigua and Barbuda | 0.614450 | <img src="{{site.baseurl}}/assets/img/Antigua and Barbuda.png" width="200"/> |
+| 182 | Comoros | 0.612388 | <img src="{{site.baseurl}}/assets/img/Comoros.png" width="200"/> |
+| 183 | Malaysia | 0.561826 | <img src="{{site.baseurl}}/assets/img/Malaysia.png" width="200"/> |
+| 184 | Federated States of Micronesia | 0.536417 | <img src="{{site.baseurl}}/assets/img/Federated States of Micronesia.png" width="200"/> |
+| 185 | Philippines | 0.536229 | <img src="{{site.baseurl}}/assets/img/Philippines.png" width="200"/> |
+| 186 | Indonesia | 0.493143 | <img src="{{site.baseurl}}/assets/img/Indonesia.png" width="200"/> |
+| 187 | Vanuatu | 0.473048 | <img src="{{site.baseurl}}/assets/img/Vanuatu.png" width="200"/> |
+| 188 | Tonga | 0.429500 | <img src="{{site.baseurl}}/assets/img/Tonga.png" width="200"/> |
+| 189 | The Bahamas | 0.405978 | <img src="{{site.baseurl}}/assets/img/The Bahamas.png" width="200"/> |
+| 190 | Seychelles | 0.388652 | <img src="{{site.baseurl}}/assets/img/Seychelles.png" width="200"/> |
+| 191 | Solomon Islands | 0.368949 | <img src="{{site.baseurl}}/assets/img/Solomon Islands.png" width="200"/> |
+| 192 | Cabo Verde | 0.309594 | <img src="{{site.baseurl}}/assets/img/Cabo Verde.png" width="200"/> |
+| 193 | Maldives | 0.203665 | <img src="{{site.baseurl}}/assets/img/Maldives.png" width="200"/> |
+| 194 | Tuvalu | 0.144069 | <img src="{{site.baseurl}}/assets/img/Tuvalu.png" width="200"/> |
+| 195 | Kiribati | 0.138684 | <img src="{{site.baseurl}}/assets/img/Kiribati.png" width="200"/> |
+| 196 | Marshall Islands | 0.084072 | <img src="{{site.baseurl}}/assets/img/Marshall Islands.png" width="200"/> |
 
 # Code
 Python code to calculate the triangularity of every country in Natural Earth's ne_10m_admin_0_countries.shp shapefile.
