@@ -64,7 +64,7 @@ We have that
 
 * For any triangle $$T$$, $$\textrm{triangularity} (T) = 1$$.
 
-Finding the values of $$x$$ and $$y$$ that maximise similarity is NP-hard in general. In practice, calculating the triangularity exactly for a country is not possible. However, using optimisation methods, it is possible to produce a reasonable approximation.
+In practice, calculating the triangularity exactly for a country is not possible. However, using optimisation methods, it is possible to produce a reasonable approximation.
 
 # Method
 
