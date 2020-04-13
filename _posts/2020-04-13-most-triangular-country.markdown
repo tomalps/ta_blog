@@ -92,7 +92,7 @@ So these results would suggest that the most triangular country in the world is 
 
 I plotted the triangularity of each country by rank, labelling every 25th country. This shows that there is a quite gentle decrease in triangularity for the first 150 countries followed by a sharp drop off, seemingly due to countries that have multiple parts. The least triangular country is the Marshall Islands, hardly surprising considering the country is a collection of tiny islands spread over a large area of ocean. The least triangular country that isn't a group of islands is Vietnam. 
 
-<img src="/assets/img/triangularity_graph.png"/>
+<img src="ta_blog/assets/img/triangularity_graph.png"/>
 
 Looking at pictures of the best triangles, it does seem like the optimisation has worked as intended, at least to the human eye. I think I would have picked similar triangles if I were doing the process manually.
 
