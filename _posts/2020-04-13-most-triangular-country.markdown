@@ -11,7 +11,7 @@ A list of 196 countries ordered by "triangularity" can be found in the Results s
 
 Details of the methods are described in the following two sections. I have included all my code at the very end of this post.
 
-I was inspired to write this blog post after reading two other excellent posts. One of these is about finding the most rectangular country and is by David Barry. The other is by Gonzalo Ciruelos and is about finding the roundest country. I'll provide links to these posts below:
+I was inspired to write this blog post after reading two excellent posts. One of these is about finding the most rectangular country and is by David Barry. The other is by Gonzalo Ciruelos and is about finding the roundest country. I'll provide links to these posts below:
 
 * [Estimating the rectangularness of countries](https://pappubahry.com/misc/rectangles/code/)
 * [What is the roundest country?](https://gciruelos.com/what-is-the-roundest-country.html)
