@@ -24,7 +24,7 @@ Overall, I am happy with the results.
 
 # Theory
 
-Following Gonzalo Ciruelos' example, I will define the similarity of two sets $$A$$ and $$B$$ in $$ \mathbb{R}^{2} $$ as the area of the intersection of the sets divided by the area of the larger set.
+Following Gonzalo Ciruelos' example, I will define the similarity of two sets $$A$$ and $$B$$ in $$ \mathbb{R}^{2} $$ as the area of the intersection of the sets divided by the maximum of the areas of the sets.
 
 $$
 \textrm{similarity} (A,B) = \frac{\textrm{area}( A  	\cap B)}{\max \{ \textrm{area} {(A)},\textrm{area} (B) \} } 
@@ -38,7 +38,7 @@ This definition of similarity has the following properties:
 
 * If $$A=B$$, then $$\textrm{similarity} (A,B) = 1$$.
 
-* If $$A \cap B = 0$$, then $$\textrm{similarity} (A,B) = 0$$.
+* If $$A \cap B = \emptyset$$, then $$\textrm{similarity} (A,B) = 0$$.
 
 Let the country $$C$$ be a set in the plane, $$ C \subset \mathbb{R}^{2} $$. Let $$ T(\textbf{x},\textbf{y}) $$ be a set in the plane, $$ T(\textbf{x},\textbf{y}) \subset \mathbb{R}^{2} $$, that is enclosed by the triangle with vertices: $$(x_{1},y_{1})$$, $$(x_{2},y_{2})$$, $$(x_{3},y_{3})$$. 
 
@@ -361,9 +361,9 @@ def similarity(triangle, polys):
     triangle_area = triangle.area
     intersection_area = sum([poly.intersection(triangle).area for poly in intersecting_polys])
 
-    triangularity = intersection_area / max(triangle_area, country_area)
+    sim = intersection_area / max(triangle_area, country_area)
     
-    return triangularity
+    return sim
 
 def run_simplex(x0, polys):
     """
