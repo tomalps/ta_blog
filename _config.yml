@@ -26,6 +26,7 @@ baseurl: "/ta_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tom_alps
 github_username:  tomalps
+google_analytics: UA-163696160-1
 
 # Build settings
 theme: minima
