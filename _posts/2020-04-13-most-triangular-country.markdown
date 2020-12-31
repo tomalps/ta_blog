@@ -502,6 +502,6 @@ finds optimal triangularity after n runs of optimisation routine per country - s
     print("Results Saved")
     print("Finished")
 
-if **name** == "**main**":
-main()
+if __name__ == "__main__":
+    main()
 {% endhighlight %}
