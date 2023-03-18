@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving Parks (Star Battle) using Integer Optimisation"
-date: 2023-04-16 00:00:00 +0000
+date: 2023-03-16 00:00:00 +0000
 categories: python
 permalink: "/parks-puzzle"
 ---
