@@ -3,7 +3,7 @@ layout: post
 title: "Solving Parks (Star Battle) using Integer Optimisation"
 date: 2023-04-16 00:00:00 +0000
 categories: python
-permalink: "/most-triangular-country"
+permalink: "/parks-puzzle"
 ---
 
 The puzzle game Parks was introduced to me by a family member who is avid player of the game. After learning the rules, it occurred to me that it might be interesting to try applying discrete optimisation techniques to solve. Parks is fairly similar to the famous [eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle), and Japanese logic puzzles like Sudoku. This blog post describes how to solve typical puzzles from the game using mixed integer linear programming ([MIP](https://en.wikipedia.org/wiki/Integer_programming)).
